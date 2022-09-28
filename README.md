@@ -1,4 +1,4 @@
-# JavaScript Basics in Express
+# Welcome To JavaScript Basics in Express!
 
 ## Getting started
 
@@ -16,7 +16,7 @@ npm install
 
 :rotating_light: **Important!**
 
-This exercise makes use of your previous `javascript-basics` code. Copy the files from that project's `src/` folder into a new `lib/` directory in this repository's `src` directory. You should end up with the following file structure in this project:
+Previous `javascript-basics` code is to be used for this project. Please check my other Repo before going ahead and Copy the files from that project's `src/` folder into a new `lib/` directory in this repository's `src` directory. You should end up with the following file structure in this project:
 
 ```
 src
@@ -33,6 +33,4 @@ src
 
 You can run tests with the `npm test` command.
 
-## Remember: READMEs are important!
 
-When you're finished, be sure to rewrite this one so it's more specific to your project.
